@@ -456,7 +456,7 @@
 </div>
 
 <script>
-// SILK WebGL — purple variant
+
 (function() {
     const canvas = document.getElementById('silk');
     const gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
@@ -542,7 +542,6 @@
         noise: gl.getUniformLocation(prog, 'uNoiseIntensity'),
     };
 
-    // Deep purple silk
     gl.uniform3f(U.color, 0.32, 0.10, 0.68);
     gl.uniform1f(U.speed, 3.0);
     gl.uniform1f(U.scale, 1.2);
@@ -567,7 +566,6 @@
     requestAnimationFrame(frame);
 })();
 
-// VARIABLE PROXIMITY
 (function() {
     const el = document.getElementById('title');
     const text = 'Privacy Policy';
@@ -600,7 +598,6 @@
     update();
 })();
 
-// CURSOR — dot + spinning accent ring
 const dot = document.getElementById('cur-dot');
 const ring = document.getElementById('cur-ring');
 let tx = 0, ty = 0, rx = 0, ry = 0;
@@ -627,7 +624,6 @@ document.querySelectorAll('a, .card, .nav-link, .badge').forEach(el => {
     el.addEventListener('mouseleave', () => document.body.classList.remove('hovering'));
 });
 
-// 3D TILT
 document.querySelectorAll('.card').forEach(card => {
     card.addEventListener('mousemove', e => {
         const r = card.getBoundingClientRect();
@@ -642,7 +638,6 @@ document.querySelectorAll('.card').forEach(card => {
     });
 });
 
-// MAGNETIC
 document.querySelectorAll('.nav-link').forEach(btn => {
     btn.addEventListener('mousemove', e => {
         const r = btn.getBoundingClientRect();
@@ -657,7 +652,6 @@ document.querySelectorAll('.nav-link').forEach(btn => {
     });
 });
 
-// FADE UP
 const io = new IntersectionObserver(entries => {
     entries.forEach((e, i) => {
         if (e.isIntersecting) {
