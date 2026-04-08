@@ -11,12 +11,12 @@
 ![Status](https://img.shields.io/badge/status-live-6378ff?style=flat-square&labelColor=0a0a14)
 ![Pages](https://img.shields.io/badge/github%20pages-deployed-8a4fff?style=flat-square&labelColor=0a0a14)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-6378ff?style=flat-square&labelColor=0a0a14)
-![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?style=flat-square&logo=discord&logoColor=white&label=discord&color=8a4fff&labelColor=0a0a14)
+![Discord](https://img.shields.io/discord/180865380632363008?style=flat-square&logo=discord&logoColor=white&label=discord&color=8a4fff&labelColor=0a0a14)
 
 <br />
 
-[![Invite Bluu](https://img.shields.io/badge/%E2%86%92%20Invite%20Bluu-6378ff?style=for-the-badge&labelColor=0a0a14)](YOUR_INVITE_LINK)
-[![Support Server](https://img.shields.io/badge/%E2%86%92%20Support%20Server-8a4fff?style=for-the-badge&labelColor=0a0a14)](YOUR_SERVER_LINK)
+[![Invite Bluu](https://img.shields.io/badge/%E2%86%92%20Invite%20Bluu-6378ff?style=for-the-badge&labelColor=0a0a14)](https://discord.com/oauth2/authorize?client_id=1194037339056525362&permissions=36785152&scope=bot%20applications.commands)
+[![Support Server](https://img.shields.io/badge/%E2%86%92%20Support%20Server-8a4fff?style=for-the-badge&labelColor=0a0a14)](https://discord.gg/HKvZjPfNTH)
 
 <br />
 
@@ -73,7 +73,7 @@ Dependencies  None
 ## Structure
 
 ```
-alohomora-bot.github.io/
+bluu/
 ├── terms.html
 ├── privacy.html
 └── README.md
