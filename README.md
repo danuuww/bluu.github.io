@@ -36,8 +36,8 @@ Official **Terms of Service** and **Privacy Policy** pages for **Bluu**. Built e
 
 | Page | Path | Description |
 |---|---|---|
-| Terms of Service | [`/terms.html`](https://alohomora-bot.github.io/terms.html) | Usage rules, conduct policy, and liability |
-| Privacy Policy | [`/privacy.html`](https://alohomora-bot.github.io/privacy.html) | Data collection, storage, and user rights |
+| Terms of Service | [`/terms.html`](https://danuuww.github.io/terms.html) | Usage rules, conduct policy, and liability |
+| Privacy Policy | [`/privacy.html`](https://danuuww.github.io/privacy.html) | Data collection, storage, and user rights |
 
 <br />
 
